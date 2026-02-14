@@ -184,14 +184,6 @@
     {
         room_goto(rm_level13);
     }
-    else if (livel == 14)
-    {
-        room_goto(rm_level14);
-    }
-    else if (livel == 15)
-    {
-        room_goto(rm_level15);
-    }
     else if (livel == 16)
     {
         mouse_clear(mb_any);

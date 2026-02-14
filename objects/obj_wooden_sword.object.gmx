@@ -99,7 +99,7 @@ else if (room == rm_beta_testing)
     audio_stop_all();
     audio_play_sound(snd_beta_music, 100, true);
 }
-else if (room == rm_level12 || room == rm_level13 || room == rm_level14 || room == rm_level15)
+else if (room == rm_level12 || room == rm_level13)
 {
     with (obj_brutal_banana) instance_change(obj_ice_banana, true);
 }
@@ -216,14 +216,6 @@ else if (room == rm_level12)
 else if (room == rm_level13)
 {
     level = 13;
-}
-else if (room == rm_level14)
-{
-    level = 14;
-}
-else if (room == rm_level15)
-{
-    level = 15;
 }
 file = file_text_open_write("level.txt");
 file_text_write_string(file, string(level));
@@ -1107,7 +1099,7 @@ audio_resume_sound(snd_frost);
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (room == rm_level12 || room == rm_level13 || room == rm_level14 || room == rm_level15)
+            <string>if (room == rm_level12 || room == rm_level13)
 {
     sprite_index = spr_ice_sword;   
 }

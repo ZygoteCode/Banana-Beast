@@ -434,7 +434,7 @@
     <instance objName="obj_slow_banana" x="992" y="384" name="inst_6C00E41B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_boost_banana" x="640" y="128" name="inst_A0AD7D26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_logo_level2" x="1152" y="576" name="inst_4468E19D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_helmet_banana" x="1216" y="96" name="inst_CD5868F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_helmet_banana" x="1184" y="96" name="inst_CD5868F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flames" x="32" y="576" name="inst_C7DD742D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flames" x="320" y="576" name="inst_B680CF98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_flames" x="608" y="576" name="inst_B756BCE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

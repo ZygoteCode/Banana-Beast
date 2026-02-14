@@ -51,13 +51,15 @@
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="1024" hview="768" xport="0" yport="0" wport="1024" hport="768" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="obj_logo" x="384" y="32" name="inst_76D6006D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_beta_dancing_banana" x="512" y="544" name="inst_9AF1A2AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_new_game" x="480" y="128" name="inst_DCF0E766" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_load_game" x="448" y="256" name="inst_4F7E0A42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_play_online" x="448" y="384" name="inst_9EA2A74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_we_are_in_beta" x="832" y="640" name="inst_C99F91ED" locked="0" code="" scaleX="0.586563289165497" scaleY="0.578947365283966" colour="4294967295" rotation="0"/>
-    <instance objName="obj_load_game" x="448" y="256" name="inst_83BF0BC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_logo" x="0" y="-32" name="inst_76D6006D" locked="0" code="" scaleX="0.190476194024086" scaleY="0.219178080558777" colour="4294967295" rotation="0"/>
+    <instance objName="obj_beta_dancing_banana" x="672" y="320" name="inst_9AF1A2AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_new_game" x="0" y="160" name="inst_DCF0E766" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_load_game" x="0" y="384" name="inst_4F7E0A42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_play_online" x="0" y="576" name="inst_9EA2A74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_we_are_in_beta" x="832" y="0" name="inst_C99F91ED" locked="0" code="" scaleX="0.586563289165497" scaleY="0.578947365283966" colour="4294967295" rotation="0"/>
+    <instance objName="obj_rainbow_dancing_banana" x="768" y="0" name="inst_32079C0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_beta_dancing_banana" x="960" y="320" name="inst_FF0D2D86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_beta_dancing_banana" x="416" y="320" name="inst_1C30C30C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

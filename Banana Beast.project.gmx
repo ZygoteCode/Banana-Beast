@@ -68,7 +68,6 @@
       <sprite>sprites\spr_logo_level15</sprite>
     </sprites>
     <sprites name="Swords">
-      <sprite>sprites\spr_wooden_sword1</sprite>
       <sprite>sprites\spr_ultra_slow_wooden_sword</sprite>
       <sprite>sprites\spr_slow_wooden_sword</sprite>
       <sprite>sprites\spr_boost_wooden_sword</sprite>
@@ -76,6 +75,8 @@
       <sprite>sprites\spr_ultra_boost_wooden_sword</sprite>
       <sprite>sprites\spr_ice_sword</sprite>
       <sprite>sprites\spr_wooden_sword</sprite>
+      <sprite>sprites\spr_rotating_ball</sprite>
+      <sprite>sprites\spr_rotating_ball2</sprite>
     </sprites>
     <sprites name="Bananas">
       <sprite>sprites\spr_banana</sprite>
@@ -193,6 +194,7 @@
       <object>objects\obj_easter_egg</object>
       <object>objects\obj_flames</object>
       <object>objects\obj_cactus_ball</object>
+      <object>objects\obj_rotating_ball</object>
     </objects>
   </objects>
   <rooms name="rooms">
@@ -210,8 +212,6 @@
     <room>rooms\rm_level11</room>
     <room>rooms\rm_level12</room>
     <room>rooms\rm_level13</room>
-    <room>rooms\rm_level14</room>
-    <room>rooms\rm_level15</room>
     <room>rooms\rm_beta_thanks</room>
     <room>rooms\rm_beta_testing</room>
     <room>rooms\rm_helmet</room>
